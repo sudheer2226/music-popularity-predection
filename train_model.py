@@ -7,7 +7,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import GradientBoostingClassifier
 from sklearn.metrics import accuracy_score
 
-df = pd.read_csv("songs.csv")
+df = pd.read_csv("compressed_data (1).csv")
 df = df.dropna()
 
 df.drop(['artist_name', 'song_name', 'lyrics'], axis=1, inplace=True)
