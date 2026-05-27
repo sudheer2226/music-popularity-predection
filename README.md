@@ -65,3 +65,5 @@ Music_Popularity_Predection/
 │── LICENSE
 └── README.md
 ```
+## 👤 Author
+**Sudheer Kumar Chukkala** | [LinkedIn](https://linkedin.com/in/sudheer-kumar-chukkala)
